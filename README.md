@@ -1,33 +1,46 @@
 <div align="center">
 
-# sosal123tyu1
-**Python & Rust Developer / AI Engineer**
+# Ali Cent (`@sosal123tyu1`)
+### **Backend, Rust & AI Systems Engineer**
 
-[Telegram](https://t.me/zzpapa) • [Interactive Portfolio](https://sosal123tyu1.github.io/Readm.me/) • Baku, AZ
+[![GitHub followers](https://img.shields.io/github/followers/sosal123tyu1?style=social)](https://github.com/sosal123tyu1)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&style=flat-square)](https://t.me/zzpapa)
+[![Interactive Portfolio](https://img.shields.io/badge/Portfolio-Online-success?style=flat-square)](https://sosal123tyu1.github.io/Readm.me/)
+[![Location](https://img.shields.io/badge/Location-Baku%2C%20AZ-orange?style=flat-square)](#)
 
 <br/>
 
-**Passionate developer focused on building automation pipelines and contributing to open-source software.**
-*Разработчик бэкенда и автоматизации. Активно развиваю проекты с открытым исходным кодом.*
+**Building high-performance backend microservices, MCP tools for AI agents, and open-source automation systems.**  
+*Инженер высокопроизводительных бэкенд-систем, инструментов для AI-агентов (MCP) и автоматизации.*
 
 ---
 
-### `// stack`
-`Rust` `Python` `TypeScript` `Docker` `PostgreSQL` `Redis` `OpenAI`
+### 🛠️ Core Tech Stack
+
+```text
+Languages:    Rust • Python • TypeScript • Go • SQL
+Backend:      Tokio • Axum • FastAPI • Node.js / Bun • WebSockets
+AI & Agents:  Model Context Protocol (MCP) • LangChain • Claude Code • LLM Orchestration
+Database/Inf: PostgreSQL • Redis • Docker • Linux / Bash • GitHub Actions
+```
 
 ---
 
-### `// contributions`
-*   **[screenpipe](https://github.com/sosal123tyu1/screenpipe)** — YC (S26) Local audio/video context recorder (Rust/TS)
-*   **[octocrab](https://github.com/sosal123tyu1/octocrab)** — Modern Rust GitHub API client (WASM support)
-*   **[firecrawl](https://github.com/sosal123tyu1/firecrawl)** — API converting web pages into LLM-ready markdown (TS)
-*   **[competitor-agent](https://github.com/sosal123tyu1/firecrawl-competitor-agent)** — Autonomous competitor monitor (Python/AI)
-*   **[circuit-json](https://github.com/sosal123tyu1/circuit-json-to-readable-netlist)** — Schematic text converter for LLM input (TS)
+### 🚀 Featured Open-Source Projects
+
+*   **[⚡ x-intel-mcp](https://github.com/sosal123tyu1/x-intel-mcp)** — Zero-fee X/Twitter & Social Intelligence MCP server for AI agents (Claude, Cursor, Pi).
+*   **[🦀 screenpipe](https://github.com/sosal123tyu1/screenpipe)** — 24/7 Local AI multimodal audio & screen capture pipeline (Rust / TS).
+*   **[🐙 octocrab](https://github.com/sosal123tyu1/octocrab)** — Extensible GitHub REST & GraphQL client for Rust with WASM support.
+*   **[🔥 firecrawl](https://github.com/sosal123tyu1/firecrawl)** — Turn entire websites into clean, LLM-ready markdown for RAG pipelines.
+*   **[🤖 competitor-agent](https://github.com/sosal123tyu1/firecrawl-competitor-agent)** — Autonomous multi-source competitor radar & intelligence agent.
 
 ---
 
-### `// stats`
-<img src="https://github-readme-stats.vercel.app/api?username=sosal123tyu1&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=bc8cff&text_color=7d8590&bg_color=080b10" height="135" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosal123tyu1&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=7d8590&bg_color=080b10" height="135" />
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sosal123tyu1&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b26" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosal123tyu1&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" height="150" />
+</p>
 
 </div>
